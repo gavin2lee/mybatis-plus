@@ -30,7 +30,7 @@ import com.baomidou.mybatisplus.enums.IdType;
 public class TableInfo {
 
 	/**
-	 * 表主键ID 类型
+	 * 表主键ID 类型 hello world
 	 */
 	private IdType idType;
 
