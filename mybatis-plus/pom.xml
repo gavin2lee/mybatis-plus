@@ -41,7 +41,7 @@
 		<alibaba.druid.version>1.0.24</alibaba.druid.version>
 		<slf4j.version>1.7.21</slf4j.version>
 		<logback-classic.version>1.1.7</logback-classic.version>
-		<mysql-connector-java.version>5.1.38</mysql-connector-java.version>
+		<mysql-connector-java.version>8.0.16</mysql-connector-java.version>
 		<ojdbc14.version>10.2.0.4.0</ojdbc14.version>
 		<ojdbc6.version>11.2.0.3</ojdbc6.version>
 		<servlet-api.version>2.5</servlet-api.version>
