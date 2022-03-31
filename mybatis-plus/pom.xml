@@ -45,7 +45,7 @@
 		<ojdbc14.version>10.2.0.4.0</ojdbc14.version>
 		<ojdbc6.version>11.2.0.3</ojdbc6.version>
 		<servlet-api.version>2.5</servlet-api.version>
-		<spring.version>4.2.5.RELEASE</spring.version>
+		<spring.version>5.3.18</spring.version>
 		<mybatis-ehcache.version>1.0.3</mybatis-ehcache.version>
 		<junit.version>4.12</junit.version>
 		<velocity.version>1.7</velocity.version>
